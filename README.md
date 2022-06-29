@@ -7,7 +7,7 @@ Here are some quick things about me:
 - 🕵️‍♀️ I like reading about technologies and fond of doing a quality work.
 - 🧸 I'm new to github and opensource world and exploring it actively.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=tejas-nagchandi&show_icons=true&hide_title=false&count_private=true&theme=dark])](https://github.com/tejas-nagchandi)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=tejas-nagchandi&show_icons=true&hide_title=false&count_private=true&theme=dark)](https://github.com/tejas-nagchandi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-nagchandi&theme=dark)](https://github.com/tejas-nagchandi)
 
