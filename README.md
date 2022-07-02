@@ -16,5 +16,4 @@ Here are some quick things about me:
 ---
 ### Acknowledgement
 * [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-* [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 * [stackoverflow-card](https://github.com/nschloe/stackoverflow-card)
